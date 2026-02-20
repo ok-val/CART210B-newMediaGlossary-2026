@@ -3,7 +3,7 @@ Biomachine seems to go down two different routes, either a machine being integra
 New media “cuts the middle man” of older technology by controlling everything in the background, by incorporating machines into biology[^BioDesign]:, this could make movement automatic, resulting in physical new media.
 This idea can also be applied to the other definition, for example, Terragrippers. This device allows pinpoint medicine delivery to specific places in the intestine.
 This action simplifies the once more manual task. Stanley Cohen and Herbert Boyer seem to be the pioneers of this term and field .[^BirthOfBio]. They first worked with ringlets in bacteria, experimenting with incorporating DNA that in turn would act as a “copier”.
-This later branches into genetic engineering and other things, but they seemed to be the people who opened this “door”. Biomachines now seem to cover areas of major concern, medical, energy and lifeforms, but the possibilities seem endless. A popular understanding of a biomachine is a cyborg.
+This later branches into genetic engineering and other things, but they seemed to be the people who opened this “door”[^IntroBio]. Biomachines now seem to cover areas of major concern, medical, energy and lifeforms, but the possibilities seem endless. A popular understanding of a biomachine is a cyborg.
 Though mostly coined in the movies, a cyborg is a person genetically enhanced by machine, this can now be seen in creatures like jellyfish and cockroaches. Simple lifeforms that’s tasks can be assisted in a simple fashion. Still a very scary thought.
 Biomachinery seems to have only just begun and is at the cutting edge of technology, maybe one day being a common term.
 
