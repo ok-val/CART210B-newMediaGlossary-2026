@@ -1,1 +1,1 @@
-##platform culture##
+##platform culture
