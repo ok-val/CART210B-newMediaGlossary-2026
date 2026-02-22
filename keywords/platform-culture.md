@@ -1,4 +1,5 @@
 ## Platform culture
+![Platform culture](/images/platform_culture.png)
 
 The first platforms began as simple bulletin board systems (BBS) in 1978, where individuals could communicate, get informed, and share things  [^medium]. They were free and accessible, much like most social media platforms today, and allowed people to gather around shared interests, which eventually created cultures of their own. In 2010, Tarleton Gillespie initiated a discussion on how platforms have a major influence within the media industry, helping popularize and define the concept of platform culture [^gillespie].
 
