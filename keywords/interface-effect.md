@@ -16,7 +16,6 @@ backgrounds [^3].
 This idea is significant in new media because it challenges the old assumption that interfaces are simple platforms. 
 Instead, the interface is part of the *media experience itself* and shapes how digital culture works.
 
-
 [^1]: Galloway, Alexander R. 2012. *The Interface Effect*. Cambridge: Polity.
 [^2]: “Alexander R. Galloway – The Interface Effect.” PZWIKI. https://pzwiki.wdka.nl/mediadesign/Alexander_R._Galloway_-_The_Interface_Effect.
 [^3]: LA Review of Books. “The Next Level: Alexander R. Galloway’s *The Interface Effect*.” https://lareviewofbooks.org/article/the-next-level-alexander-r-galloways-the-interface-effect/(https://lareviewofbooks.org/article/the-next-level-alexander-r-galloways-the-interface-effect/).
