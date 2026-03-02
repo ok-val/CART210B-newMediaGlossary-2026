@@ -1,4 +1,4 @@
-## Geomatics
+## Geomatics by Jesus Daniel Munoz C
 
 Geomatics is the term used for the study of the data and recollection of the physical impact humans and other creatures and events have on the 
 closest layer of the earth. Composing studies about geography using state of the art technologies and techniques. The term was first proposed
@@ -19,8 +19,6 @@ useful data.
 In conclusion geomatics is the term of updating pre-existing fields with new technologies and techniques to be able to gather new data that is 
 useful for the modern age. Geomatics a very useful and needed domain that lets us get to know our world in a much more precise way that lets us 
 take care of it in a much more effective way. 
-
-Author: Jesus Daniel Munoz C
 
 <br>
 
