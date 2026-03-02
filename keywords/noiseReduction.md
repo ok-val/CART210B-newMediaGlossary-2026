@@ -1,0 +1,30 @@
+## Noise Reduction by Abhinav Voleti
+
+Noise reduction, within diffusion-based image generation, refers to the iterative transformation of a random signal into a coherent image through the gradual removal of 
+noise across discrete steps. This process is foundational to contemporary generative systems and is especially significant in new media because it shifts image production
+from direct creation to probabilistic reconstruction. Rather than capturing or composing images manually, the systems generate visuals through learned statistical patterns, 
+redefining authorship and creativity in computational terms.
+
+The concept originates from diffusion probabilistic models, formalized by Ho, Jain, and Abbeel,[^denoisingdiffussion] where images are progressively corrupted with noise during training and then 
+reconstructed by reversing that process. This reverse diffusion process is what enables models to synthesize images from noise. Rombach et al.,[^diffusionmodels] extend this framework through 
+latent diffusion, making generation more computationally efficient and scalable, which directly contributed to the widespread adoption of tools like Stable Diffusion. In this
+sense, noise reduction is not merely a technical step but a key mechanism enabling accessible, real-time generative media.
+
+Technologically, noise reduction operates across timesteps, where the model predicts and subtracts noise incrementally while being conditioned by text prompts. This links it 
+to broader new media practices such as prompt-based creation and human ai co-production. The use of different samplers (e.g., Euler, DPM++) reflects varying numerical strategies
+for solving the reverse diffusion equation, influencing visual style, speed, and consistency.[^genmodels] These variations demonstrate how algorithmic choices shape aesthetic 
+outcomes, connecting noise reduction to discussions of algorithmic bias and creative control.[^genmodels]
+
+Paradigmatic examples include ai generated art, synthetic photography, and design workflows using tools like Stable diffusion or Midjourney, where images emerge from noise guided
+by language. These practices illustrate a shift toward generative systems as cultural tools, where randomness and control coexist.
+In relation to other terms, noise reduction is closely tied to diffusion models, latent space, and prompt engineering, forming a core conceptual cluster in contemporary ai media
+systems.
+
+<br>
+
+[^denoisingdiffussion]: Ho, Jonathan, Ajay Jain, and Pieter Abbeel. “Denoising Diffusion Probabilistic Models.” 
+Advances in Neural Information Processing Systems, January 1, 1970. https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html. 
+
+[^genmodels]: Karras, Tero, Miika Aittala, Timo Aila, and Samuli Laine. “Elucidating the Design Space of Diffusion-Based Generative Models.” Venues, October 31, 2022. https://openreview.net/forum?id=k7FuTOWMOc7.
+
+[^diffusionmodels]: Rombach, Robin, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. “High-Resolution Image Synthesis with Latent Diffusion Models.” CVF Open Access, January 1, 1970. https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html. 
