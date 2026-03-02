@@ -6,6 +6,7 @@ There are many applications of machine learning, including scientific and medica
 
 Another issue is bias in generated content, where the model that harnesses machine learning can be unfairly influenced by its developers, its training data, etc. Furthermore, the illegal scraping of data has put major tech companies in hot water regarding their products. To this day, companies are attempting to eliminate bias and make their products more ethical, which is likely to be a problem that persists indefinitely. [^chang2024mediaresearch]
 
+---
 
 [^bergmann25machinelearning]: Bergmann, Dave. 2025. _What is machine learning?_. IBM. https://www.ibm.com/think/topics/machine-learning.
 [^valtonen2019medialiteracy]: Valtonen, Teemu; Tedre, Matti; Makitalo, Kati; Vartiainen, Henriikka. 2019. _Media Literacy Education in the Age of Machine Learning_. JMLE. https://digitalcommons.uri.edu/jmle/vol11/iss2/2/.
