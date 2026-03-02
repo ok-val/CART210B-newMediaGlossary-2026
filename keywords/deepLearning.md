@@ -10,12 +10,12 @@ many layers of processing that communicate with each other, gradually building c
 where early layers capture basic signals and later layers combine them into more abstract concepts making deep learning especially effective for messy, high-dimensional data such as images, audio, and text.
 At the same time, IBM notes that deep learning can require substantial data and computing to train effectively.[^ibmDL]
 
-
-
 In scientific and technical domains, deep learning is increasingly treated not just as a “pattern recognizer” but as a practical computational tool. Ray, Pinti, and Oberai position deep learning alongside 
 computational physics because both rely on core ideas such as approximation, optimization, and solving complex systems.² In this context, deep networks can be used to model physical phenomena or support 
 numerical methods used in physics and engineering.[^rayBook]  More broadly, deep learning can be understood as a flexible function-approximation framework that is trained from data and guided by optimization. 
 A system that can learn relationships from observations and complement simulation-based approaches when exact analytic solutions are unavailable.
+
+<br>
 
 [^ibmDL]: IBM Data and AI Team. n.d. “AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the Difference?” *IBM Think*. Accessed February 26, 2026. https://www.ibm.com/think/topics/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks.
 
