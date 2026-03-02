@@ -10,9 +10,7 @@ In the context of the present tense media and the era of Artificial Intelligence
 
 That sort of “power” is not granted to AI like it is to humans. In this day and age, where AI excels in efficiency as an automated entity, it lacks agency and will always deliver a non-felt response to the user through its interactions. To have agency is to have the capacity to exert power over something, someone or oneself. One might use automation to execute tasks, for example sending emails, create flowcharts etc, however those are implementation details, not the value proposition. The agency of one’s action lies in the reasoning that decides whether one should send said email, what should be said and who to send the email to.[^priyanka25automation]
 
-
-
-
+<br>
 
 [^isaautomation]: “What Is Automation? - ISA.” isa.org. Accessed February 20, 2026. https://www.isa.org/about-isa/what-is-automation.  
 [^merriam-websteragency]: “Agency Definition & Meaning.” Merriam-Webster. Accessed February 20, 2026. https://www.merriam-webster.com/dictionary/agency. 
