@@ -1,4 +1,4 @@
-## Non-Human Vision
+## Non-Human Vision by Aliyah Renomeron-Ward
 
 Joanna Zylinska explains that “What is meant by nonhuman photography here is not just photos taken by agents that are not human, such as CCTV cameras, body scanners, space satellites or Google Street View".[^ZJ_non] "Non-human vision" refers to a method of seeing that is not centered or limited to human perception. 
 
