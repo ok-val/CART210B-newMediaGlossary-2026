@@ -12,6 +12,8 @@ We interact with media every day, and each person has their own way of navigatin
 ### Paradigmatic examples
 Influencer and content creator culture, as well as streamer and vlogger culture, all emerged from the use of platforms such as Instagram, YouTube, Twitch, and TikTok. These occupations would not have been possible without the influence these platforms generate.
 
+<br>
+
 [^medium]: Allebach, Nathan. 2020. “A Brief History of Internet Culture and How Everything Became Absurd.” Medium. July 31, 2020. https://medium.com/swlh/a-brief-history-of-internet-culture-and-how-everything-became-absurd-6af862e71c94.
 [^gillespie]: Perlangeli Genni, Rea Andrea & Sfodera Fabiola. “The Platformization of Cultural Industries | /encatcScholar.” http://blogs.encatc.org/encatcscholar/?p=3058.
 [^arpad]: Rab, Arpad. "Digital culture–Digitalised culture and culture created on a digital platform." Information Society From Theory to Political Practice 183 (2007): 1-24
