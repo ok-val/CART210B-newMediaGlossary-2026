@@ -6,13 +6,13 @@ in french by a scientist called Bernard Dubuison at the end of the 1960's mainly
 photogrammetrist. At the end of the 20th century it became clear that a change was needed in order to prepare for the upcoming changes to update
 the gear and tactics used to record and study geographic data by merging traditional disciplines of land surveying with emerging tools for data 
 capture, manipulation, storage and diffusion. In truth Geomatics is really just an umbrella term that talks about the tools and techniques used 
-to analyse the Earth’s surface[^bell].
+to analyse the Earth’s surface.[^bell]
 
 This term is used for many fields that are used in everyday life. examples like cartography, GPS services, Statistics, environmental consulting 
 and many other incredibly useful domains profit from geomatics. In Canada its the Canada Center for Mapping and Earth Observation (CCMEO) is the 
-institute in charge of geomatics, mapping and earth observations in Canada[^cnd_natres]. Fields like land surveying are mainly used to help establish land 
+institute in charge of geomatics, mapping and earth observations in Canada.[^cnd_natres] Fields like land surveying are mainly used to help establish land 
 boundaries that cultivate into current, legal property. Another great field that benefits from geomatics its geovisualization which is a study that 
-merges computer sciences and cartography by creating hyper realistic 3D height maps of land areas[^shroder]. Another field that greatly benefits from this 
+merges computer sciences and cartography by creating hyper realistic 3D height maps of land areas.[^shroder] Another field that greatly benefits from this 
 term is hydrogeomatics where by using emerging technologies we are able to visualize all that is above and under sea level in hopes of gathering 
 useful data.
 
