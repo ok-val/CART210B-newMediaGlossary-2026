@@ -1,4 +1,4 @@
-## Geomatics by Jesus Daniel Munoz C
+## Geomatics by Jesus Daniel Munoz Calderon
 
 Geomatics is the term used for the study of the data and recollection of the physical impact humans and other creatures and events have on the 
 closest layer of the earth. Composing studies about geography using state of the art technologies and techniques. The term was first proposed
