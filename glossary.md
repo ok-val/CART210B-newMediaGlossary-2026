@@ -200,7 +200,7 @@ Neural networks therefore function not only as technical infrastructures but als
 [^LeCun]: LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015.
 “Deep Learning.”
 
-## Neurodivergent
+## Neurodivergent by Elle Lilin Kyuss Lim-Fauteux
 
 Defining neurodivergent is challenging, because it encapsulates so many things. Individuals that fall under that category often have very different experiences, even if they have the same condition. This is because they are spectrums, and every person scales differs. It is an umbrella term that refers to people who neurologically function and process things differently from what is considered the “norm”, which is what is considered “neurotypical”. This term includes conditions such as autism, ADHD, OCD and more. These conditions tend to be characterized by processing sensory information differently, such as having more pronounced senses.[^neurolaunch24neurodivergent]
 
