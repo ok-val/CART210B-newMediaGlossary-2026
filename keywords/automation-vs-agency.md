@@ -1,4 +1,4 @@
-## Automation vs Agency
+## Automation vs Agency by Caterina Martin
 
 Let’s first break down the two terms.
 
