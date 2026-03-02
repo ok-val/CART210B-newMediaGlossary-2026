@@ -34,7 +34,7 @@ Biomachinery seems to have only just begun and is at the cutting edge of technol
 [^BioDesign]: Goddard, Gertie. 2022. “Biomimetic Design: 10 Examples of Nature Inspiring Technology.” BBC Science Focus Magazine. June 28. https://www.sciencefocus.com/future-technology/biomimetic-design-10-examples-of-nature-inspiring-technology.
 [^IntroBio]: Mazzi, Peter. 2024. “Introducing n!Biomachines: Fit-for-Purpose Bioreactors Designed to Easily and Affordably Scale Cellular Agriculture.” The Cultivated B. April 3. https://www.thecultivatedb.com/introducing-nbiomachines-fit-for-purpose-bioreactors-designed-to-easily-and-affordably-scale-cellular-agriculture/.
 
-## Data Animism
+## Data Animism by Oceane Daumasson
 
 Before delving into Data Animism, a term coined by Joanna Zylinska, it is important to first define animism itself. The concept was introduced by anthropologist Edward Burnett Tylor in 1871 and described as the attribution of spirit, life, agency, or sentience to nonhuman beings, such as animals, plants, objects or natural phenomena.[^SB_ani]
 
@@ -47,12 +47,7 @@ This can also be seen in current media practices and technologies. Some major ex
 - Voice Assistants: Virtual assistants like Alexa and Siri blur the boundaries between ‘man’ and ‘machine’, driving users to talk to them as if they were people.[^WS_sir]
 - Early Cinema: Audiences gave life to the moving images on screen, for example recoiling from the Lumière brothers' 1895 projected train.[^JZ_bio]
 
-
-
-
-
-
-
+<br>
 
 [^SB_ani]: Schluter, Benjamin D. 2025. Animism. The Ohio State University. https://germanic.osu.edu/animism
 [^JZ_bio]: Zylinska, Joanna. 2025. Bio-AI: The Aesthetics and Ethics of Data Animism. King’s College London.
