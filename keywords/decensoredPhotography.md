@@ -1,4 +1,4 @@
-## Decensored Photography
+## Decensored Photography by Benedict Ambayec
 
 A term coined by British writer Joanna Zylinska, it is tightly linked to her research on nonhuman photography.[^zylinska17non] Essentially Zylinska has raised awareness of photography that has no human relation to its subject matter or if there are humans present, it's to a very insignificant position and also is made strictly for the benefit of machines. Such examples can be like satellite imaging for Google Maps or other GPS services, microscopic or telescope images to take detailed snapshots of nature and our world.
 
