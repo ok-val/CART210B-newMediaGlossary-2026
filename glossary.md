@@ -50,7 +50,7 @@ Biomachinery seems to have only just begun and is at the cutting edge of technol
 [^IntroBio]: Mazzi, Peter. 2024. “Introducing n!Biomachines: Fit-for-Purpose Bioreactors Designed to Easily and Affordably Scale Cellular Agriculture.” The Cultivated B. April 3. https://www.thecultivatedb.com/introducing-nbiomachines-fit-for-purpose-bioreactors-designed-to-easily-and-affordably-scale-cellular-agriculture/.
 
 ## Pixel Flow vs Sweat Flow
----
+
 Pixel Flow is a concept first coined and explained by writer Joanna Zylinska in her paper: BIO-AI: The Aesthetics and ethics of data animism.[^1]
 It is expressing how can a machine *make* and syntesizes images. She thens put the term in contrast with the concept of sweat flow, defining 
 the human tangible labour we go through in the analogous world.This contrast and opposition is exactly where both concepts find their meaning. It connects to the opposition of agency and autonomy as an 
