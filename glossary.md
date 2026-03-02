@@ -75,7 +75,7 @@ This can also be seen in current media practices and technologies. Some major ex
 [^WS_sir]: Seymour, William. Van Kleek, Max. 2020. Does Siri Have a Soul? Exploring Voice Assistants Through Shinto Design Fictions. CHI Conference on Human Factors in Computing Systems. ACM. https://www.cs.ox.ac.uk/files/11851/altchi-fictions.pdf
 
 
-## Decensored Photography
+## Decensored Photography by Benedict Ambayec
 
 A term coined by British writer Joanna Zylinska, it is tightly linked to her research on nonhuman photography.[^zylinska17non] Essentially Zylinska has raised awareness of photography that has no human relation to its subject matter or if there are humans present, it's to a very insignificant position and also is made strictly for the benefit of machines. Such examples can be like satellite imaging for Google Maps or other GPS services, microscopic or telescope images to take detailed snapshots of nature and our world.
 
