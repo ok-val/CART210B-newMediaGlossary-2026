@@ -19,6 +19,26 @@ That sort of “power” is not granted to AI like it is to humans. In this day 
 [^priyanka25automation]: Jain. Priyanka. “Automation vs. Agency: The AI Distinction That Will Define Your Next Investment.” Medium. October 19, 2025.  Accessed February 20, 2026. https://medium.com/@jainprian/automation-vs-agency-the-ai-distinction-that-will-define-your-next-investment-0e44838d5cb9. 
 [^tyson-zysman22automation]: Tyson, Laura D, Zysman, John. “Automation, AI & Work.” Daedalus. April 15, 2022. Accessed February 20, 2026. https://www.amacad.org/publication/daedalus/automation-ai-work. 
 
+## Automation vs Agency by Qiuyue Qin
+
+Automation refers to the use of machines or algorithms to perform tasks automatically, without direct human control. Agency means the ability to act and make decisions that produce effects in the world. In new media theory, the debate between automation and agency asks who controls digital systems: humans, machines, or both.
+
+According to Manovich, automation is one of the key principles of new media.[^manovich] Digital media objects can be created, modified, and organized by algorithms. For example, social media platforms use automated recommendation systems to decide what content users see. These systems shape everyday digital experiences without users fully understanding how they work.
+
+However, agency is not limited to humans. Latour argues that agency is distributed across networks that include both human and non-human actors.[^latour] In digital environments, users, algorithms, interfaces, and data all influence outcomes. This means control is shared across a system rather than belonging to a single actor.
+
+Gillespie explains that algorithms are not neutral tools but powerful mediators that shape visibility and participation online.[^gillespie] For example, TikTok’s recommendation algorithm determines which videos become viral. While the system operates automatically, users still exercise agency by creating content, interacting with posts, and responding to trends.
+
+The tension between automation and agency is central to discussions about artificial intelligence, authorship, and algorithmic bias. Automation does not eliminate human agency, but it redistributes it within complex digital networks.
+
+<br>
+
+[^manovich]: Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press.
+
+[^latour]: Latour, Bruno. 2005. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford: Oxford University Press. http://hdl.handle.net/2027/heb.32135.
+
+[^gillespie]: Gillespie, Tarleton. 2014. “The Relevance of Algorithms.” In *Media Technologies: Essays on Communication, Materiality, and Society*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 167–194. Cambridge, MA: MIT Press. http://site.ebrary.com/id/10833872.
+
 ## Bio-AI by Joyce Angelina Lam
 
 Joanna Zylinska describes Bio-AI as the recognition that Artificial Intelligence (AI) is no longer an external computational tool – such as software or algorithms used to analyse data, simulate systems, or solve problems – but has become embedded within the very condition of life itself; likewise Bio-AI has overtaken the role of biomachines in mediating life. She describes AI as a “relational technology to life,” suggesting that it mediates biological, ecological, and social systems rather than simply operating alongside them. Through pattern recognition, decision-making, and self-modifying processes, AI reshapes perception and reorganises the structures through which contemporary society functions.[^zylinska]
