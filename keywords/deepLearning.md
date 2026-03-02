@@ -1,4 +1,4 @@
-## Deep learning
+## Deep learning by Rayvhaun Dougan-Gordon
 
 Deep learning can be defined as an advanced form of machine learning within the broader field of AI. It uses artificial neural networks ,models made of interconnected “nodes” 
 arranged in layers to process input data and produce an output such as a label, prediction, or generated result. IBM describes the relationship between these fields as a nested 
