@@ -7,6 +7,6 @@ Machine vision also alters the Perception of visual culture apps like TikTok and
 
 ***
 
-1. Joanna Zylinska, AI ART, Machine Visions and Warped Dreams
-2. Cognex: [Introduction to Machine Vision](https://www.cognex.com/en/tools-and-resources/resource-center/machine-vision)
-3. Zebra: [What Is Machine Vision?](https://www.zebra.com/us/en/resource-library/faq/what-is-machine-vision.html)
+1.  **Zylinska, Joanna.** "AI ART, Machine Visions and Warped Dreams". Open Humanities Press. 2020,  [HERE](https://github.com/ok-val/CART210B-newMediaGlossary-2026/pull/23#pullrequestreview-3878549396)
+2. **Cognex**, "Introduction to Machine Vision". November 6th 2025  [HERE](https://www.cognex.com/en/tools-and-resources/resource-center/machine-vision)
+3. **Zebra** "What Is Machine Vision?", March 4, 2026 [HERE](https://www.zebra.com/us/en/resource-library/faq/what-is-machine-vision.html)
