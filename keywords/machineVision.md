@@ -1,12 +1,13 @@
-# Machine Vision 
+## Machine Vision 
+
 The standard definition of Machine Vision emerged from the field of artificial intelligence. From research that was conducted in the 1960’s and the 1970’s, the Massachusetts Institute of Technology coined the term " By: Larry Roberts. The father of computer vision, the original meaning of Machine vision is a digital system which allows parts and products to be inspected by a machine. It is primarily used in factorial and organization jobs allowing the computer to scan products, patterns, components, etc, which generates data on the object making it critical for factories to use it for its efficiency while it make decisions at inhuman speed and high accuracy, improving each product's quality while removing any waste or flawed item that has appeared on it’s scanners. Making decisions without human oversight, as its database focuses on the imperfections in the items, taking them away, and producing the perfected items on the assembly line. 
 
 Now, why is machine vision significant in new media? It transforms how images function. Before the recent surge of AI, images were meant to be viewed through the lens of the human eye; however, in today's age, images are processed through the lens of AI, as AI continues to learn from the images we post. On the topic of Machine vision in new media, our understanding of AI boils down to whether AI can see what people see, or if it is just pattern recognition from the countless images it feeds on, as AI prompts the generation of an image that best fits the description that the prompter is looking for. 
 
 Machine vision also alters the Perception of visual culture apps like TikTok and Instagram. Machine vision can determine what becomes visible through an algorithm of what you would like to see the most. The machine vision in the apps will focus on content that fits the description of what you are already watching, which can make the user stay on the app longer, generating more data for the algorithm to collect and thus pushing out more content that fits your needs. Even if it puts you in a cycle of consuming and generating.
 
-***
+<br>
 
-1.  **Zylinska, Joanna.** "AI ART, Machine Visions and Warped Dreams". Open Humanities Press. 2020,  [HERE](https://github.com/ok-val/CART210B-newMediaGlossary-2026/pull/23#pullrequestreview-3878549396)
-2. **Cognex**, "Introduction to Machine Vision". COGNEX, November 6th 2025  [HERE](https://www.cognex.com/en/tools-and-resources/resource-center/machine-vision)
-3. **Zebra** "What Is Machine Vision?", ZEBRA,  March 4, 2026 [HERE](https://www.zebra.com/us/en/resource-library/faq/what-is-machine-vision.html)
+[^JZ_art]: Joanna Zylinska, *AI ART, Machine Visions and Warped Dreams*. Open Humanities Press, 2020. https://github.com/ok-val/CART210B-newMediaGlossary-2026/pull/23#pullrequestreview-3878549396 
+[^CGX]: Cognex, "Introduction to Machine Vision." COGNEX, November 6, 2025. https://www.cognex.com/en/tools-and-resources/resource-center/machine-vision 
+[^ZB]: Zebra, "What Is Machine Vision?" ZEBRA, March 4, 2026. https://www.zebra.com/us/en/resource-library/faq/what-is-machine-vision.html
