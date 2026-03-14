@@ -1,4 +1,4 @@
-## Machine Vision 
+## Machine Vision by Jordan Lobasso
 
 The standard definition of Machine Vision emerged from the field of artificial intelligence. From research that was conducted in the 1960’s and the 1970’s, the Massachusetts Institute of Technology coined the term " By: Larry Roberts. The father of computer vision, the original meaning of Machine vision is a digital system which allows parts and products to be inspected by a machine. It is primarily used in factorial and organization jobs allowing the computer to scan products, patterns, components, etc, which generates data on the object making it critical for factories to use it for its efficiency while it make decisions at inhuman speed and high accuracy, improving each product's quality while removing any waste or flawed item that has appeared on it’s scanners. Making decisions without human oversight, as its database focuses on the imperfections in the items, taking them away, and producing the perfected items on the assembly line. 
 
