@@ -1,5 +1,5 @@
 # CART210 New media glossary
-This is the repository for the collaborative glossary of the New Media Theory(ies), Art, and Practice class.
+This is the repository for the collaborative glossary of the New Media Theory, Art, and Practice class, led by Prof. Juliana España Keller.
 
 >[!IMPORTANT]
 > ## [Check the glossary here (see suggestedTerms tab)](https://docs.google.com/spreadsheets/d/1s0uGC1HUucblf5npYROwYhTTw_y5mSnri35bT0wLl4w/edit?usp=sharing)
