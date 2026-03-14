@@ -240,7 +240,7 @@ Another issue is bias in generated content, where the model that harnesses machi
 [^valtonen2019medialiteracy]: Valtonen, Teemu; Tedre, Matti; Makitalo, Kati; Vartiainen, Henriikka. 2019. _Media Literacy Education in the Age of Machine Learning_. JMLE. https://digitalcommons.uri.edu/jmle/vol11/iss2/2/.
 [^chang2024mediaresearch]: Chang, Li-jing Arthur. 2024. _Bridging the Gap: Harnessing the Power of Machine Learning and Big Data for Media Research_. IIISCI. https://www.iiisci.org/journal/PDV/sci/pdfs/SA298QT24.pdf.
 
-## Machine Vision 
+## Machine Vision by Jordan Lobasso
 
 The standard definition of Machine Vision emerged from the field of artificial intelligence. From research that was conducted in the 1960’s and the 1970’s, the Massachusetts Institute of Technology coined the term " By: Larry Roberts. The father of computer vision, the original meaning of Machine vision is a digital system which allows parts and products to be inspected by a machine. It is primarily used in factorial and organization jobs allowing the computer to scan products, patterns, components, etc, which generates data on the object making it critical for factories to use it for its efficiency while it make decisions at inhuman speed and high accuracy, improving each product's quality while removing any waste or flawed item that has appeared on it’s scanners. Making decisions without human oversight, as its database focuses on the imperfections in the items, taking them away, and producing the perfected items on the assembly line. 
 
