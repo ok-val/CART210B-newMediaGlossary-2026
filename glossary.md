@@ -59,7 +59,7 @@ Bio-AI therefore transforms contemporary culture from purely digital production 
 
 
 
-## Biomachine by Kai Marquivar
+## Biomachine by Kai Marquivar Lavers
 
 Biomachine seems to go down two different routes, either a machine being integrated into a living creature,or a machine modeled after a mechanic of a creature. New media can be used to define these devices because of the idea of their purpose.
 New media “cuts the middle man” of older technology by controlling everything in the background, by incorporating machines into biology,[^BioDesign] this could make movement automatic, resulting in physical new media.
